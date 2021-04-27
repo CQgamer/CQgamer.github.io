@@ -18,9 +18,9 @@
   
   <entry>
     <title>相信</title>
-    <link href="http://example.com/2021/03/17/%E7%9B%B8%E4%BF%A1%E6%9C%AA%E6%9D%A5/"/>
-    <id>http://example.com/2021/03/17/%E7%9B%B8%E4%BF%A1%E6%9C%AA%E6%9D%A5/</id>
-    <published>2021-03-17T12:35:25.753Z</published>
+    <link href="http://example.com/2021/04/26/%E7%9B%B8%E4%BF%A1%E6%9C%AA%E6%9D%A5/"/>
+    <id>http://example.com/2021/04/26/%E7%9B%B8%E4%BF%A1%E6%9C%AA%E6%9D%A5/</id>
+    <published>2021-04-26T15:15:52.387Z</published>
     <updated>2021-04-21T17:32:22.878Z</updated>
     
     <content type="html"><![CDATA[<h2 id="相信未来"><a href="#相信未来" class="headerlink" title="相信未来"></a>相信未来</h2><h3 id="作者：食指"><a href="#作者：食指" class="headerlink" title="作者：食指"></a>作者：<a href="https://baike.baidu.com/item/%E9%A3%9F%E6%8C%87/6799189">食指</a></h3><h4 id="——选自《食指的诗歌》"><a href="#——选自《食指的诗歌》" class="headerlink" title="——选自《食指的诗歌》"></a>——选自<a href="https://baike.baidu.com/item/%E7%9B%B8%E4%BF%A1%E6%9C%AA%E6%9D%A5/56396">《食指的诗歌》</a></h4><hr><hr><blockquote><p>当蜘蛛网无情地查封了我的炉台，<br>当灰烬的余烟叹息着贫困的悲哀，<br>我依然固执地铺平失望的灰烬，<br>用美丽的雪花写下：相信未来。</p></blockquote><blockquote><p>当我的紫葡萄化为深秋的露水，<br>当我的鲜花依偎在别人的情怀，<br>我依然固执地用凝霜的枯藤，<br>在凄凉的大地上写下：相信未来。</p></blockquote><blockquote><p>我要用手指那涌向天边的排浪，<br>我要用手掌那托起太阳的大海，<br>摇曳着曙光那支温暖漂亮的笔杆，<br>用孩子的笔体写下：相信未来。</p></blockquote><blockquote><p>我之所以坚定地相信未来，<br>是我相信未来人们的眼睛——<br>她有拨开历史风尘的睫毛，<br>她有看透岁月篇章的瞳孔。</p></blockquote><blockquote><p>不管人们对于我们腐烂的皮肉，<br>那些迷途的惆怅，失败的苦痛，<br>是寄予感动的热泪，深切的同情，<br>还是给以轻蔑的微笑，辛辣的嘲讽。</p></blockquote><blockquote><p>我坚信人们对于我们的脊骨，<br>那无数次地探索、迷途、失败和成功，<br>一定会给予热情、客观、公正的评定，<br>是的，我焦急地等待着他们的评定。</p></blockquote><blockquote><p>朋友，坚定地相信未来吧，<br>相信不屈不挠的努力，<br>相信战胜死亡的年轻，<br>相信未来，热爱生命。</p></blockquote><hr><hr><p><img src="https://i.loli.net/2021/04/22/GQKt8WSnmq5HVoB.jpg" alt="Alt"><br>分享者 <a href="https://baike.baidu.com/item/%E5%A5%BD%E5%A5%87/5074691">@CQZL</a><br>2021 年 03月 01日    </p>]]></content>
@@ -42,9 +42,9 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2021/03/17/hello-world/"/>
-    <id>http://example.com/2021/03/17/hello-world/</id>
-    <published>2021-03-17T10:34:13.731Z</published>
+    <link href="http://example.com/2021/04/26/hello-world/"/>
+    <id>http://example.com/2021/04/26/hello-world/</id>
+    <published>2021-04-26T15:15:52.386Z</published>
     <updated>2021-03-17T12:16:14.480Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
