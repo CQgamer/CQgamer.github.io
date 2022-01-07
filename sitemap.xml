@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2022/01/07/%E5%AE%9E%E4%B9%A0%E6%80%BB%E7%BB%93-2/</loc>
+    
+    <lastmod>2022-01-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2022/01/07/%E5%AE%9E%E4%B9%A0%E6%80%BB%E7%BB%93-1/</loc>
+    
+    <lastmod>2022-01-07</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/2021/10/29/KNN%E7%AE%97%E6%B3%95/</loc>
     
     <lastmod>2021-10-29</lastmod>
@@ -53,7 +67,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2021-12-06</lastmod>
+    <lastmod>2022-01-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -61,21 +75,21 @@
   
   <url>
     <loc>http://example.com/tags/%E6%80%BB%E7%BB%93/</loc>
-    <lastmod>2021-12-06</lastmod>
+    <lastmod>2022-01-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/work/</loc>
-    <lastmod>2021-12-06</lastmod>
+    <lastmod>2022-01-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/Shore-and-love/</loc>
-    <lastmod>2021-12-06</lastmod>
+    <lastmod>2022-01-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -84,21 +98,21 @@
   
   <url>
     <loc>http://example.com/categories/2021%E5%B9%B4%E6%80%BB%E7%BB%93/</loc>
-    <lastmod>2021-12-06</lastmod>
+    <lastmod>2022-01-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/</loc>
-    <lastmod>2021-12-06</lastmod>
+    <lastmod>2022-01-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/%E8%AF%BB%E7%89%A9/</loc>
-    <lastmod>2021-12-06</lastmod>
+    <lastmod>2022-01-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

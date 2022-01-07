@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-10-29T10:21:33.922Z</updated>
+  <updated>2022-01-07T02:39:50.175Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,51 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>实习总结第二天</title>
+    <link href="http://example.com/2022/01/07/%E5%AE%9E%E4%B9%A0%E6%80%BB%E7%BB%93-2/"/>
+    <id>http://example.com/2022/01/07/%E5%AE%9E%E4%B9%A0%E6%80%BB%E7%BB%93-2/</id>
+    <published>2022-01-07T02:18:32.642Z</published>
+    <updated>2022-01-07T02:39:50.175Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="实习总结第二天"><a href="#实习总结第二天" class="headerlink" title="实习总结第二天"></a>实习总结第二天</h2><h2 id="单元测试"><a href="#单元测试" class="headerlink" title="单元测试"></a>单元测试</h2><pre><code> 软件测试的流程可分为：需求分析，测试计划，测试用例设计，测试用例执行，BUG提交分析，测试报告的编写。</code></pre><p>按照<strong>测试的先后顺序</strong>可以分为<strong>单元测试</strong>，<strong>集成测试</strong>，<strong>确认测试</strong>，<strong>系统测试</strong>与<strong>验收测试</strong>。<br><strong>单元测试</strong>和<strong>集成测试</strong>由设计人员和程序员完成，<strong>系统测试</strong>由<strong>软件测试小组</strong>根据上面的三个基本步骤完成，<strong>验收测试</strong>由用户完成。</p><h2 id="对JS-JSP-XML-SQL-SSM-太过于陌生"><a href="#对JS-JSP-XML-SQL-SSM-太过于陌生" class="headerlink" title="对JS JSP XML SQL SSM  太过于陌生"></a>对JS JSP XML SQL SSM  太过于陌生</h2><h1 id="找到学习的路学习"><a href="#找到学习的路学习" class="headerlink" title="找到学习的路学习"></a>找到学习的路学习</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;实习总结第二天&quot;&gt;&lt;a href=&quot;#实习总结第二天&quot; class=&quot;headerlink&quot; title=&quot;实习总结第二天&quot;&gt;&lt;/a&gt;实习总结第二天&lt;/h2&gt;&lt;h2 id=&quot;单元测试&quot;&gt;&lt;a href=&quot;#单元测试&quot; class=&quot;headerlink&quot; titl</summary>
+      
+    
+    
+    
+    
+    <category term="work" scheme="http://example.com/tags/work/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>实习总结第一天</title>
+    <link href="http://example.com/2022/01/07/%E5%AE%9E%E4%B9%A0%E6%80%BB%E7%BB%93-1/"/>
+    <id>http://example.com/2022/01/07/%E5%AE%9E%E4%B9%A0%E6%80%BB%E7%BB%93-1/</id>
+    <published>2022-01-07T02:18:32.639Z</published>
+    <updated>2022-01-07T02:39:42.031Z</updated>
+    
+    <content type="html"><![CDATA[<p>实习总结第一天</p><h2 id="导入公司的项目"><a href="#导入公司的项目" class="headerlink" title="导入公司的项目"></a>导入公司的项目</h2><h3 id="H1-了解-SVN"><a href="#H1-了解-SVN" class="headerlink" title="H1     了解 SVN"></a>H1     了解 <strong>SVN</strong></h3><blockquote><p>（Subversion(SVN) 是一个开源的版本控制系統, 也就是说 Subversion 管理着随时间改变的数据。 这些数据放置在一个中央资料档案库(repository) 中。 这个档案库很像一个普通的文件服务器, 不过它会记住每一次文件的变动。 这样你就可以把档案恢复到旧的版本, 或是浏览文件的变动历史。）</p></blockquote><h3 id="H2-安装Tomcat"><a href="#H2-安装Tomcat" class="headerlink" title="H2     安装Tomcat"></a>H2     安装Tomcat</h3><blockquote><p>(Tomcat 8 实现了对 Servlet 3.1 和 JavaServer Page 2.3（JSP）的支持，并提供了作为 Web 服务器的一些特有功能，如 Tomcat 管理和控制平台、安全域管理和 Tomcat 附加组件等。)</p></blockquote><p>​        从官网上下载 <em>Tomcat8.5</em>  按照步骤安装操作</p><h3 id="H3-配置Eclipse环境"><a href="#H3-配置Eclipse环境" class="headerlink" title="H3     配置Eclipse环境"></a>H3     配置Eclipse环境</h3><h4 id="H3-1-下载代码"><a href="#H3-1-下载代码" class="headerlink" title="H3.1 下载代码"></a>H3.1 下载代码</h4><div>         <img src="https://s2.loli.net/2022/01/05/D1jqne9hJVMioKC.png" width="45%">     <img src="https://s2.loli.net/2022/01/05/smLThXNFyY4ZDOg.png" width="50%"> </div><p>​    下载 <strong>SVN</strong>  插件，通过 <strong>SVN</strong>  于在eclipse中import导入代码<br>​    检出项目 - &gt; 选择仓库 - &gt;  登录账号  - &gt; 下载代码（不知流程顺序）</p><h4 id="H3-2-配置Tomcat"><a href="#H3-2-配置Tomcat" class="headerlink" title="H3.2 配置Tomcat"></a>H3.2 配置Tomcat</h4><h4 id><a href="#" class="headerlink" title></a><img src="https://s2.loli.net/2022/01/05/Lb2DdytiAETG83X.png" alt="image-20220105094511506"></h4><p><img src="https://s2.loli.net/2022/01/05/m7qtGbD1px2Zw5z.png" alt="image-20220105100250189"></p><h4 id="H3-3-代码应用配置"><a href="#H3-3-代码应用配置" class="headerlink" title="H3.3  代码应用配置"></a>H3.3  代码应用配置</h4><p>右点点击然后 <em><code>Run AS</code></em> - &gt; <code>选择Tomcat8.5</code> - &gt;  <code>运行</code> </p><h4 id="H3-4-其他设置"><a href="#H3-4-其他设置" class="headerlink" title="H3.4 其他设置"></a>H3.4 其他设置</h4><p>设置通过Tomcat展示的网页，浏览器显示(没用内置的浏览器）</p><p>将问题框调动出来，查看问题出现情况</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;实习总结第一天&lt;/p&gt;
+&lt;h2 id=&quot;导入公司的项目&quot;&gt;&lt;a href=&quot;#导入公司的项目&quot; class=&quot;headerlink&quot; title=&quot;导入公司的项目&quot;&gt;&lt;/a&gt;导入公司的项目&lt;/h2&gt;&lt;h3 id=&quot;H1-了解-SVN&quot;&gt;&lt;a href=&quot;#H1-了解-SVN</summary>
+      
+    
+    
+    
+    
+    <category term="work" scheme="http://example.com/tags/work/"/>
+    
+  </entry>
   
   <entry>
     <title>KNN算法</title>
